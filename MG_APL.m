@@ -1,4 +1,6 @@
 
+%Function to calculate Gateway Average Path length using Dijkstra's Algorithm
+
 function [aver_G_APL] = MG_APL(A3)
 
  N=size(A3,2);
